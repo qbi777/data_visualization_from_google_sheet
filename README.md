@@ -1,5 +1,7 @@
 # data_visualization_from_google_sheet
 This Python code describes how to access the data from the Google sheet and how to visualize the data in a local Python compiler with a .json file of the Google sheet
+To generate the .json file for your project to access the Google sheet you can refer to this link: 
+https://medium.com/@paulgambill/how-to-import-json-data-into-google-spreadsheets-in-less-than-5-minutes-a3fede1a014a
 
 ![image](https://github.com/qbi777/data_visualization_from_google_sheet/assets/123941775/25d8d6c6-fcfb-4d31-b893-185bfbc7c591)
 You can see how the data was visualized.
